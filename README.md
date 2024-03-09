@@ -6,7 +6,7 @@ Ce projet est un petit programme codé en Python conçu pour corriger les fautes
 
 Pour utiliser ce programme, veuillez suivre les étapes suivantes :
 
-1. Téléchargez le fichier .zip depuis [ce lien]([https://github.com/Manarii98/Projet-Voltaire-Triche/blob/main/helpPV.zip](https://github.com/Manarii98/Projet-Voltaire-Triche/releases/tag/v1)) et extrayez-le dans un répertoire de votre choix.
+1. Téléchargez le fichier .zip depuis [ce lien](https://github.com/Manarii98/Projet-Voltaire-Triche/releases/tag/v1) et extrayez-le dans un répertoire de votre choix.
 2. Lancez le fichier .exe inclus dans le dossier extrait.
 3. Copiez le texte contenant les fautes d'orthographe que vous souhaitez corriger.
 4. Collez le texte dans l'interface du programme.
