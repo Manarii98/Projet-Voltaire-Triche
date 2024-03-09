@@ -10,8 +10,8 @@ Pour utiliser ce programme, veuillez suivre les étapes suivantes :
 2. Lancez le fichier .exe inclus dans le dossier extrait.
 3. Copiez le texte contenant les fautes d'orthographe que vous souhaitez corriger.
 4. Collez le texte dans l'interface du programme.
-5. Appuyez sur le bouton "Corriger" ou une commande équivalente pour lancer la correction.
-6. Le programme affichera le texte corrigé dans l'interface.
+5. Appuyez sur le bouton "Envoyer".
+6. Le programme affichera le ou les mots faux + le texte corrigé juste en dessous.
 
 ## Remarque
 
